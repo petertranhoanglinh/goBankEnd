@@ -1,3 +1,4 @@
 .env
 go.mod
 node_modules
+go.sum
