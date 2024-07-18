@@ -1,0 +1,80 @@
+[33mcommit b53ed69aee87af5d252c3ab3bec96ee803a79ef7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mempty[m[33m)[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 13:37:34 2024 +0700
+
+    add branch generics study generics in go lang
+
+[33mcommit cf0942ba9cb56f3d9f99d50a84f4ebf7d6177eee[m[33m ([m[1;31morigin/empty[m[33m)[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 13:27:53 2024 +0700
+
+    create branch empty
+
+[33mcommit cd3af0c2b39407fe94dae09a343ad7ac5a77c1e5[m[33m ([m[1;31morigin/lesson1[m[33m, [m[1;32mlesson1[m[33m)[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 11:52:53 2024 +0700
+
+    updated hello work
+
+[33mcommit 411351fcd0b20296b150be56c3ea2a8fcabb0a54[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 11:29:24 2024 +0700
+
+    hello go programing
+
+[33mcommit 891790c9c26daa2188879da5e303d474c3e48dda[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 11:00:49 2024 +0700
+
+    delete all folder afer install go lang
+
+[33mcommit 68f4e7443ba82a940ed8f08e65543b9452b62d23[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:54:54 2024 +0700
+
+    updated gitgnore
+
+[33mcommit 39e615f2e1c76fd19c9a715f40e12c8644556663[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:53:44 2024 +0700
+
+    used gitignor file
+
+[33mcommit f05b6979e25c7b449c4300b6e88a346491c5c5d4[m
+Merge: aa4e59d fb6c654
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:47:33 2024 +0700
+
+    resolve conflic
+
+[33mcommit aa4e59d998a493daee50c7ee15a8c0371e1ec776[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:43:03 2024 +0700
+
+    update index.html in local
+
+[33mcommit fb6c6547a3210d482d2938f025811c7f6f53273a[m
+Author: petertranhoanglinh <73209234+petertranhoanglinh@users.noreply.github.com>
+Date:   Thu Jul 18 10:40:27 2024 +0700
+
+    Update index.html
+    
+    thay đổi trên server
+
+[33mcommit 3f3bb82674dd95ee05f198cbfabb001eb5e86163[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:26:54 2024 +0700
+
+    add branch lesson 1
+
+[33mcommit 21ec8e56c74c524f9e9fe109236c6401fe521105[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 10:06:45 2024 +0700
+
+    add index.html index2.css and modify index.css
+
+[33mcommit 7f540fa6b5c196b2325b92d20b960ba422a8cfa9[m
+Author: petertranhoanglinh <petertranhoanglinh@gmail.com>
+Date:   Thu Jul 18 09:46:15 2024 +0700
+
+    add index.css
